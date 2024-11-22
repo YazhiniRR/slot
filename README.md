@@ -24,9 +24,6 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-<html>
-    <body>
-        <img src="logo.png" width="700" height="100">
         <table border="2"
         cellspacing="15"
         cellpadding="5"
@@ -128,8 +125,7 @@ Execute the program using runserver command.
                 <td>CARRER DEVELOPMENT SKILLS</td>
             </tr>
         </table>
-    </body>
-</html>
+    
 
 ## OUTPUT
 ![alt text](<Screenshot (44).png>)
